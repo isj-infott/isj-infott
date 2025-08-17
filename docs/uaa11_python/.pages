@@ -1,0 +1,9 @@
+nav:
+  - tp1_var
+  - tp2_fonctions
+  - tp3_tests
+  - "TP4 Boucles": tp4_boucles
+  - tp5_listes_string
+#  - tp5_fonctions
+  - tp6_struct_complexes
+  - "TP7 Listes imbriquées": tp7_listes_imbriquees

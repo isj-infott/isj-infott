@@ -1,0 +1,6 @@
+nav:
+  - "Accueil": index.md
+  - "UAA7 SQL": uaa7_sql
+  - "UAA8 Linux": uaa8_secu_linux5TT
+  - "UAA11 Python": uaa11_python
+  - "UAA12 Web": uaa12_web
